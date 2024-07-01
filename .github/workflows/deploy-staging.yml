@@ -2,7 +2,7 @@
 
 name: Stage the app
 
-# Controls when the workflow will run
+# Controls when the workflow will ru
 on:
   pull_request:
     types: [labeled]
